@@ -6,7 +6,7 @@
 <body>
 <?php
 
-echo "Moin";
+echo "<h1>Moin Leute<h1>";
 ?>
 </body>
 </html>
