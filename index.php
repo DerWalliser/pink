@@ -18,7 +18,7 @@ $a = "";
 	</head>
 	<body>
 		<?php
-		$c = $a * $b;
+		$c = $a + $b;
 		echo "<h1>Moin Leute " .$c."</h1>";
 		?>
 		<form>
